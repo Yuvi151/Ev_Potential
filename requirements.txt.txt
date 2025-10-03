@@ -1,0 +1,6 @@
+pandas
+numpy
+scipy
+pyarrow
+jsonschema
+psycopg2-binary
